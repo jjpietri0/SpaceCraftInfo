@@ -1,0 +1,13 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/rocket_primary</item>
+        <item name="colorPrimaryDark">@color/rocket_primary_variant</item>
+        <item name="colorAccent">@color/rocket_secondary</item>
+        <item name="android:textColorPrimary">@color/night_sky</item>
+        <item name="android:textColorSecondary">@color/rocket_gray</item>
+    </style>
+
+    <style name="TitleTextAppearance" parent="TextAppearance.AppCompat.Large">
+        <item name="android:textColor">@color/flame_orange</item>
+    </style>
+</resources>

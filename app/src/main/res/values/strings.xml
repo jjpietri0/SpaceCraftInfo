@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RocketLaunchInfo</string>
+    <string name="really_exit_the_application">Really exit the application?</string>
+    <string name="cancel">Cancel</string>
+    <string name="james_bond">james_bond</string>
+    <string name="exit">Exit</string>
+    <string name="please_wait">Wait for app to load!</string>
+    <string name="no_internet">Not connected to the internet!</string>
+    <string name="this_app_was_made_by_jjp_unfortunately_it_is_not_good">This app was made by JJP, unfortunately it is not good!</string>
+    <string name="about">About\n</string>
+    <string name="launches">Launches</string>
+    <string name="redflag">redflag</string>
+    <string name="name">Name\n</string>
+    <string name="crew_capacity">Crew capacity</string>
+    <string name="capability">Capability</string>
+    <string name="human_rated">Human rated</string>
+    <string name="in_use">In use</string>
+    <string name="maiden_flight">Maiden flight</string>
+    <string name="location">Our location</string>
+    <string name="we_are_located_here">We are located here!</string>
+</resources>

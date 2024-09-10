@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sky_blue">#87CEEB</color>
+    <color name="rocket_gray">#A9A9A9</color>
+    <color name="flame_orange">#FF4500</color>
+    <color name="smoke_white">#F5F5F5</color>
+    <color name="night_sky">#191970</color>
+    <color name="rocket_primary">#FF5722</color>
+    <color name="rocket_primary_variant">#E64A19</color>
+    <color name="rocket_secondary">#4CAF50</color>
+    <color name="rocket_secondary_variant">#388E3C</color>
+</resources>
