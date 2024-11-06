@@ -18,7 +18,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCwFAq0vVUYgo1jASEkdFLKjMS0AikGfwk"/>
+            android:value=""/>
 
         <activity
             android:name=".ItemPagerActivity"
